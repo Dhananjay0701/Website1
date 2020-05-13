@@ -1,40 +1,29 @@
-#beatles {
-    float: left;
+.box{
     size: 50px;
     color: Black;
     font-family : Rockwell, serif;
     font-weight: bold;
-    font-size: 50px;
+    font-size: 30px;
 }
-#pink_flyod{
+#box1{
+    float:left;
+}
+#box2{
     float: left;
-    size: 50px;
-    color: Black;
-    font-family : Rockwell, serif;
-    font-weight: bold;
-    font-size: 50px;
-    padding-top:120px ;
+    text-align: left;
+    padding-top: 300px;
+ 
 
 } 
-#led {
+#box3 {
     float:right;
-    size: 50px;
-    color: Black;
-    font-family : Rockwell, serif;
-    font-weight: bold;
-    font-size: 50px;
     text-align: right;
+    padding-right: 100px;
 }
-#queen{  
+#box4{  
     float:right;
-    size: 50px;
-    color: Black;
-    font-family : Rockwell, serif;
-    font-weight: bold;
-    font-size: 50px;
     text-align: right;
-    padding-top:120px;
-
+    padding-right: 100px;
 }
 body {
     background-image: url("Rock.jpg") ;
