@@ -1,0 +1,12 @@
+h1{
+    size: 50px;
+    color: Black;
+    font-family : Rockwell, serif;
+    font-weight: bold;
+    font-size: 50px;
+}
+
+body {
+    background-image: url("beatles.png") ;
+    background-size: 1280px 600px;
+   }

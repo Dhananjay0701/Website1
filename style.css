@@ -1,0 +1,42 @@
+#beatles {
+    float: left;
+    size: 50px;
+    color: Black;
+    font-family : Rockwell, serif;
+    font-weight: bold;
+    font-size: 50px;
+}
+#pink_flyod{
+    float: left;
+    size: 50px;
+    color: Black;
+    font-family : Rockwell, serif;
+    font-weight: bold;
+    font-size: 50px;
+    padding-top:120px ;
+
+} 
+#led {
+    float:right;
+    size: 50px;
+    color: Black;
+    font-family : Rockwell, serif;
+    font-weight: bold;
+    font-size: 50px;
+    text-align: right;
+}
+#queen{  
+    float:right;
+    size: 50px;
+    color: Black;
+    font-family : Rockwell, serif;
+    font-weight: bold;
+    font-size: 50px;
+    text-align: right;
+    padding-top:120px;
+
+}
+body {
+    background-image: url("Rock.jpg") ;
+    background-size: 1280px 720px;
+   }
