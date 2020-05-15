@@ -10,3 +10,34 @@ body {
     background-image: url("Queen.jpg") ;
     background-size: 1280px 600px;
    }
+
+   .band{
+    text-align: right;
+    color:rgb(20, 120, 120);
+    font-size: 15px;
+}
+
+#beatles{
+    position: absolute;
+    bottom: 5%;
+    right: 0;
+}
+
+#led{
+    position: absolute;
+    bottom: 10%;
+    right: 0;
+
+}
+
+#pink{
+    position: absolute;
+    bottom: 15%;
+    right: 0;
+}
+
+#main{
+    position: absolute;
+    bottom: 0%;
+    right: 0;
+}

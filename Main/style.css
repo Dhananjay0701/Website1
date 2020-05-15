@@ -31,3 +31,15 @@ body {
     background-image: url("Rock.jpg") ;
     background-size: 1280px 720px;
    }
+@media (max-width: 909px){
+    body{
+        background-image:url("rock_Roll.jpg");
+
+    }
+}
+
+@media (min-width:910px){
+    body{
+        background-image:  url("Rock.jpg");
+    }
+}

@@ -1,12 +1,44 @@
 h1{
     size: 50px;
-    color: Black;
+    color: rgb(253, 102, 1);
     font-family : Rockwell, serif;
     font-weight: bold;
     font-size: 50px;
+    text-align: Center;
 }
 
 body {
     background-image: url("Wish\ You\ Were\ Here\ Pink\ Floyd\ Cover\ Desktop\ Wallpaper.jpg") ;
     background-size: 1280px 600px;
    }
+
+.band{
+    text-align: right;
+    color:aqua;
+    font-size: 15px;
+}
+
+#queen{
+    position: absolute;
+    bottom: 5%;
+    right: 0;
+}
+
+#led{
+    position: absolute;
+    bottom: 10%;
+    right: 0;
+
+}
+
+#beatles{
+    position: absolute;
+    bottom: 15%;
+    right: 0;
+}
+
+#main{
+    position: absolute;
+    bottom: 0%;
+    right: 0;
+}
