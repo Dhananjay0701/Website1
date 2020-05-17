@@ -1,9 +1,9 @@
-h1{
+#heading{
     size: 50px;
     color: rgba(255,110,199,0.9);
     font-family : Rockwell, serif;
     font-weight: bold;
-    font-size: 50px;
+    font-size: 35px;
     text-align: center;
 }
 
@@ -15,7 +15,7 @@ body {
 .band{
     text-align: right;
     color:rgb(200, 120, 120);
-    font-size: 15px;
+    font-size: 12px;
 }
 
 #queen{
@@ -42,4 +42,19 @@ body {
     bottom: 0%;
     right: 0;
 }
-
+.head{
+    color:		rgb(171, 240, 233);
+    text-align: center;
+    font:helvetica;
+    font-size: 25px;
+}
+.haore{
+    color:pink;
+    text-align: center;
+    font:helvetica;
+    font-size: 30px;
+}
+.container{
+    border:3px whitesmoke;
+    padding-top: 75px;
+}
