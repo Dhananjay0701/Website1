@@ -15,7 +15,7 @@ body {
 .band{
     text-align: right;
     color:aqua;
-    font-size: 15px;
+    font-size: 23px;
 }
 
 #queen{
@@ -41,4 +41,23 @@ body {
     position: absolute;
     bottom: 0%;
     right: 0;
+}
+
+.head{
+    color:		rgb(	255, 88, 88)  ;
+    text-align: center;
+    font:helvetica;
+    font-size: 25px;
+    font-style: bold;
+}
+.haore{
+    color:	rgb(5, 223, 215);
+    text-align: center;
+    font:helvetica;
+    font-size: 30px;
+    font-style: Bold;
+}
+.container{
+    border:3px whitesmoke;
+    padding-top: 0px;
 }
